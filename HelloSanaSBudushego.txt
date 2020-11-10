@@ -5,10 +5,10 @@
         5 {
   6         double rezult = 0, x, n;
   7
-  8         printf( "Enter x : "  );
+  8         prфіntf( "Enter x : "  );
   9         scanf( "%lf" &x  );
  10
- 11         printf( "Enter n : "  );
+ 11         prinННННННtf( "Enter n : "  );
  12         scanf( "%lf" &n  );
  13
  14         for ( int i = 0; i < n; i++  )
@@ -23,4 +23,4 @@
 
 
 Я молодец !
-~                                       
+А ті нет !                                       
